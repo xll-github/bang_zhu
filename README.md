@@ -1,3 +1,3 @@
-# My Awesome Book
+# 帮助文档
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+帮助代理更好的使用“快乐论文平台”
