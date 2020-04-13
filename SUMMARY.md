@@ -12,4 +12,5 @@
 * [分销小程序功能](chapter2.md)
   * [申请开通微信分销小程序](chapter2/shen-qing-kai-tong-wei-xin-fen-xiao-xiao-cheng-xu.md)
 * [检测通知功能说明](jian-ce-tong-zhi-gong-neng-shuo-ming.md)
+* [免费发券功能说明](mian-fei-fa-quan-gong-neng.md)
 
