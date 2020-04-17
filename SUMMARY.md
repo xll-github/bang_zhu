@@ -10,8 +10,8 @@
   * [申请微信小程序、服务号](chapter1/申请微信小程序、服务号.md)
   * [如何开启和使用微信版](chapter1/如何开启和使用微信版.md)
   * [微信卡券功能](chapter1/wei-xin-qia-quan-gong-neng.md)
+  * [检测通知功能说明](jian-ce-tong-zhi-gong-neng-shuo-ming.md)
+  * [免费发券功能说明](mian-fei-fa-quan-gong-neng.md)
 * [分销小程序功能](chapter2.md)
   * [申请开通微信分销小程序](chapter2/shen-qing-kai-tong-wei-xin-fen-xiao-xiao-cheng-xu.md)
-* [检测通知功能说明](jian-ce-tong-zhi-gong-neng-shuo-ming.md)
-* [免费发券功能说明](mian-fei-fa-quan-gong-neng.md)
 
